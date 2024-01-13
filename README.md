@@ -1,1 +1,1 @@
-A Netflix home page clone.
+A Netflix home page clone with responsive layout.
